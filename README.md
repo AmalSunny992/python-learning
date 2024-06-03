@@ -4,7 +4,6 @@ Welcome to the Python Basics section of the Python Learning Repository. This sec
 ## Table of Contents
 
 **Basics**
-
     1. [Hello World](#hello-world)
     
     2. [Variables and Data Types](#variables-and-data-types)
