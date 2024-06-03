@@ -4,24 +4,16 @@ Welcome to the Python Basics section of the Python Learning Repository. This sec
 ## Table of Contents
 
 **Basics**
+
     1. [Hello World](#hello-world)
-    
-    2. [Variables and Data Types](#variables-and-data-types)
-    
+    2. [Variables and Data Types](#variables-and-data-types) 
     3. [Basic Operators](#basic-operators)
-    
-    4. [String Manipulation](#string-manipulation)
-    
+    4. [String Manipulation](#string-manipulation) 
     5. [Lists](#lists)
-    
     6. [Tuples](#tuples)
-    
     7. [Dictionaries](#dictionaries)
-    
     8. [Sets](#sets)
-    
     9. [Conditionals](#conditionals)
-    
     10. [Loops](#loops)
 
 **[Code Challenges](./code_challenge)**
