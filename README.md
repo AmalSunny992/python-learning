@@ -13,7 +13,7 @@ Welcome to the Python Basics section of the Python Learning Repository. This sec
 8. [Sets](#sets)
 9. [Conditionals](#conditionals)
 10. [Loops](#loops)
-11. [Code Challenges](./code challenges)
+11. [Code Challenges](./code_challenges)
 
 ## Hello World
 The "Hello World" program is a simple script that prints "Hello, World!" to the screen. 
