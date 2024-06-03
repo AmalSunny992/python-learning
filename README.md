@@ -3,15 +3,15 @@ Welcome to the Python Basics section of the Python Learning Repository. This sec
 
 ## Table of Contents
 1. [Hello World](#hello-world)
-2. [Variables and Data Types]()
-3. [Basic Operators]()
-4. [String Manipulation]()
-5. [Lists]()
-6. [Tuples]()
-7. [Dictionaries]()
-8. [Sets]()
-9. [Conditionals]()
-10. [Loops]()
+2. [Variables and Data Types](#variables-and-data-types)
+3. [Basic Operators](#basic-operators)
+4. [String Manipulation](#string-manipulation)
+5. [Lists](#lists)
+6. [Tuples](#tuples)
+7. [Dictionaries](#dictionaries)
+8. [Sets](#sets)
+9. [Conditionals](#conditionals)
+10. [Loops](#loops)
 
 ## Hello World
 The "Hello World" program is a simple script that prints "Hello, World!" to the screen. 
