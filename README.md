@@ -22,18 +22,19 @@ The "Hello World" program is a simple script that prints "Hello, World!" to the 
 
 It is often used as a first step in learning a new programming language.
 
-hello_world.py
+
 ```python
 
 # This is a comment. Comments are ignored by the Python interpreter.
 # Print "Hello, World!" to the console
+
 print("Hello, World!")
 ```
 
 ## Variables and Data Types
 Variables are used to store data, and data types define the type of data a variable can hold.
 
-variables_and_data_types.py
+
 ```python
 # Integer
 age = 25
@@ -56,7 +57,7 @@ print(is_student)
 ## Basic Operators
 Python supports various operators for arithmetic, comparison, and logical operations.
 
-basic_operators.py
+
 ```python
 # Arithmetic Operators
 a = 10
@@ -85,7 +86,7 @@ print(not x)    # Logical NOT
 ## String Manipulation
 Strings are sequences of characters. Python provides various methods to manipulate strings.
 
-string_manipulation.py
+
 ```python
 
 # String concatenation
@@ -107,7 +108,7 @@ print(message[7:12]) # Alice
 ## Lists
 Lists are ordered collections of items that are mutable.
 
-lists.py
+
 ```python
 # Creating a list
 fruits = ["apple", "banana", "cherry"]
@@ -129,7 +130,7 @@ print(fruits)
 ## Tuples
 Tuples are ordered collections of items that are immutable.
 
-tuples.py
+
 ```python
 # Creating a tuple
 coordinates = (10, 20)
@@ -146,7 +147,7 @@ print(coordinates[1])  # 20
 ## Dictionaries
 Dictionaries are collections of key-value pairs.
 
-dictionaries.py
+
 ```python
 # Creating a dictionary
 person = {"name": "Alice", "age": 25, "city": "New York"}
@@ -168,7 +169,7 @@ print(person)
 ## Sets
 Sets are unordered collections of unique items.
 
-sets.py
+
 ```python
 # Creating a set
 fruits = {"apple", "banana", "cherry"}
@@ -188,7 +189,7 @@ print(fruits)
 ## Conditionals
 Conditional statements allow you to execute code based on certain conditions.
 
-conditionals.py
+
 ```python
 age = 18
 
@@ -212,7 +213,7 @@ else:
 ## Loops
 Loops are used to repeat a block of code multiple times.
 
-loops.py
+
 ```python
 # For loop
 for i in range(5):
