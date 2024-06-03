@@ -230,4 +230,5 @@ fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
     print(fruit)
 ```
-
+## License
+This repository is licensed under the Apache License. See the [LICENSE](./LICENSE) file for more information.
