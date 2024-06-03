@@ -2,6 +2,7 @@
 Welcome to the Python Basics section of the Python Learning Repository. This section will introduce you to the fundamental concepts of Python programming. Each concept is explained with examples and exercises to reinforce your understanding.
 
 ## Table of Contents
+
 1. [Hello World](#hello-world)
 2. [Variables and Data Types](#variables-and-data-types)
 3. [Basic Operators](#basic-operators)
@@ -12,6 +13,7 @@ Welcome to the Python Basics section of the Python Learning Repository. This sec
 8. [Sets](#sets)
 9. [Conditionals](#conditionals)
 10. [Loops](#loops)
+11. [Code Challenger]()
 
 ## Hello World
 The "Hello World" program is a simple script that prints "Hello, World!" to the screen. 
