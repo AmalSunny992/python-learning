@@ -2,7 +2,7 @@
 Welcome to the Python Basics section of the Python Learning Repository. This section will introduce you to the fundamental concepts of Python programming. Each concept is explained with examples and exercises to reinforce your understanding.
 
 ## Table of Contents
-1. [Hello World](#Hello World)
+1. [Hello World](./?tab=readme-ov-file#hello-world)
 2. [Variables and Data Types]()
 3. [Basic Operators]()
 4. [String Manipulation]()
