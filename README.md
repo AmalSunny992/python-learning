@@ -1,3 +1,4 @@
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 # Python Basics
 Welcome to the Python Basics section of the Python Learning Repository. This section will introduce you to the fundamental concepts of Python programming. Each concept is explained with examples and exercises to reinforce your understanding.
 
